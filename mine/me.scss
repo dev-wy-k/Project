@@ -1,0 +1,13 @@
+$theme-colors: (
+  "primary": #3B32C9,
+  "danger": #FC6681 ,
+  "secondary" : #7E76F9,
+  "warning" : #FFD037,
+  "success" : #88CB88 , 
+);
+
+$border-radius : 35px ;
+$input-btn-padding-x: 1.5rem;
+$navbar-dark-color:                 rgba(#fff, .7);
+
+@import "../node_modules/bootstrap/scss/bootstrap";
