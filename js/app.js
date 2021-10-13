@@ -1,7 +1,7 @@
 
 
     let screenHeight = $(window).height();
-    console.log(screenHeight);
+    // console.log(screenHeight);
 
     $(window).scroll(function (){
         let currentPostion = $(this).scrollTop();
